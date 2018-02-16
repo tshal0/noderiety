@@ -1,0 +1,11 @@
+{
+  "name": "noderiety",
+  "version": "1.0.0",
+  "description": "Social Media app using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Shallenberger",
+  "license": "ISC"
+}
